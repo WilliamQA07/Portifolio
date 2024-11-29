@@ -121,18 +121,5 @@ export const projects: { [project: string]: ProjectParams } = {
     url: "/",
     github: "",
   },
-
-
 }
-export default function Home() {
-  return (
-    <>
-      <Head>
-        <title>Marcas que Confiam</title>
-      </Head>
-      <main>
-        <BrandsSection />
-      </main>
-    </>
-  );
-}
+
