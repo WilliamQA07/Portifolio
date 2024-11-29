@@ -46,7 +46,7 @@ export const projects: { [project: string]: ProjectParams } = {
     description:
       "Plataforma de Entregas.",
     image: "/projects/docunder/docunder.png",
-    smimage: "/projects/docunder/AgileGo.png",
+    smimage: "/projects/docunder/Agilego.png",
     xsimage: "/projects/docunder/docunder-xs.png",
     video: "/projects/docunder/docunder-home.png",
     logo:<></>,
